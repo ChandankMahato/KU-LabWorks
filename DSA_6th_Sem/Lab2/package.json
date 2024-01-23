@@ -1,0 +1,20 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "Lab2",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose --coverage --detectOpenHandles",
+    "start": "node index.js",
+    "time": "node Performance/time.js",
+    "graph": "node Performance/graph.js"
+  },
+  "keywords": [
+    "nodejs",
+    "sort",
+    "algorithm",
+    "test"
+  ],
+  "author": "Chandan Kumar Mahato",
+  "license": "ISC"
+}

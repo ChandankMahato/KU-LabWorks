@@ -1,0 +1,20 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "Lab3-BinarySearchTree",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose --coverage --detectOpenHandles",
+    "start": "node index.js",
+    "time": "node Performance/time.js",
+    "graph": "node Performance/graph.js"
+  },
+  "keywords": [
+    "BST",
+    "nodejs",
+    "javascript",
+    "search"
+  ],
+  "author": "Chandan Kumar Mahato",
+  "license": "ISC"
+}

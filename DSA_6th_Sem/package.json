@@ -1,0 +1,19 @@
+{
+  "name": "DSA",
+  "version": "1.0.0",
+  "description": "DSA LABs",
+  "keywords": [
+    "nodejs",
+    "sort",
+    "algorithm",
+    "test"
+  ],
+  "author": "Chandan Kumar Mahato",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0",
+    "nodeplotlib": "^1.1.2",
+    "perf_hooks": "^0.0.1",
+    "vis": "^4.21.0-EOL"
+  }
+}

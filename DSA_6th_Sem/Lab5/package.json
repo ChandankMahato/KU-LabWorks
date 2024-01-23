@@ -1,0 +1,24 @@
+{
+  "name": "lab5",
+  "version": "1.0.0",
+  "description": "Lab5-Graph",
+  "main": "index.js",
+  "scripts": {
+    "drawQ1" : "node ./Q1/drawGraph.js",
+    "drawQ2G1" : "node ./Q2/G1/drawGraph.js",
+    "drawQ2G2" : "node ./Q2/G2/drawGraph.js",
+    "drawQ2G3" : "node ./Q2/G3/drawGraph.js",
+    "drawQ2G4" : "node ./Q2/G4/drawGraph.js",
+    "drawQ2G5" : "node ./Q2/G5/drawGraph.js"
+
+  },
+  "keywords": [
+    "Graph",
+    "nodejs",
+    "javascript",
+    "nodes",
+    "edges"
+  ],
+  "author": "Chandan Kumar Mahato",
+  "license": "ISC"
+}

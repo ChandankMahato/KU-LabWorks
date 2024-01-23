@@ -1,0 +1,22 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "Lab4-KnapSack",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose --coverage --detectOpenHandles",
+    "BR01K": "node BR01Knapsack.js",
+    "BRFK": "node BRFKnapsack.js",
+    "GFK": "node GFKnapsack.js",
+    "DP01K": "node DP01Knapsack.js"
+  },
+  "keywords": [
+    "KnapSack",
+    "nodejs",
+    "javascript",
+    "BruteForce",
+    "Greedy"
+  ],
+  "author": "Chandan Kumar Mahato",
+  "license": "ISC"
+}
